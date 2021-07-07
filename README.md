@@ -1,1 +1,1 @@
-# blokcodingtest
+# I have coded the assignment as a single microservice. This mainly is for assessing the coding skills. There are many best practices like putting messages to a file, Authentication and Authorization, Logging, Validations which I didnt concentrate much due to time constraints. I am more than happy to get on to a call and discuss what all I would have done if I had time. 
