@@ -1,0 +1,26 @@
+
+g
+java:S1192 "QDefine a constant instead of duplicating this literal "PBEWithMD5AndDES" 4 times.(¢‚§ü
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(£¿ƒ´ûÿÿÿÿ
+‡
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(Ëì¢¸üÿÿÿÿ
+E
+java:S6212 "/Declare this local variable with "var" instead.(¢‚§ü
+J
+java:S6212""/Declare this local variable with "var" instead.(Õî‡³ÿÿÿÿÿ
+>
+java:S5542""#Use secure mode and padding scheme.(Õî‡³ÿÿÿÿÿ
+T
+java:S4719$"9Replace charset name argument with StandardCharsets.UTF_8(õùÊ˜ÿÿÿÿÿ
+J
+java:S6212,"/Declare this local variable with "var" instead.(Õî‡³ÿÿÿÿÿ
+>
+java:S5542,"#Use secure mode and padding scheme.(Õî‡³ÿÿÿÿÿ
+N
+java:S4719."9Replace charset name argument with StandardCharsets.UTF_8(ÔÆ„q
+J
+java:S6212:"/Declare this local variable with "var" instead.(¾„ûÿÿÿÿ
+J
+java:S6212<"/Declare this local variable with "var" instead.(€È¿¾øÿÿÿÿ
+J
+java:S6212="/Declare this local variable with "var" instead.(¾¸Ëûıÿÿÿÿ

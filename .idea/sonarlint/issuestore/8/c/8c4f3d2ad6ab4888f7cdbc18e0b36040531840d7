@@ -1,0 +1,10 @@
+
+L
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(Žü«D
+?
+java:S1165
+")Make this "exceptionMessage" field final.(ê¿È­
+8
+java:S1165""Make this "errorCode" field final.(¸àäÃ
+D
+java:S1165")Make this "notificationInfo" field final.(ÿïŽÄýÿÿÿÿ
